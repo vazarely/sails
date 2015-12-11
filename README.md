@@ -10,6 +10,10 @@
 
 Sails.js is a web framework that makes it easy to build custom, enterprise-grade Node.js apps. It is designed to resemble the MVC architecture from frameworks like Ruby on Rails, but with support for the more modern, data-oriented style of web app development. It's especially good for building realtime features like chat.
 
+## NOTE &nbsp;
+2015-Dec-11: This fork adds the following PRs on top of sails.js rel 0.12-rc3 
+- [PR#3228: Added support for JSON arrays](https://github.com/balderdashy/sails/pull/3228)
+
 
 ## Installation &nbsp;
 **With [node](http://nodejs.org) [installed](http://sailsjs.org/#!documentation/new-to-nodejs):**
